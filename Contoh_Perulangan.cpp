@@ -1,3 +1,11 @@
 #include <iostream>
 #include <ctime>
-#include namespace std;
+#include <cstdlib>
+using namespace std;
+
+int main ()
+{
+    int n;
+    int perulanganWhile = 0;
+    int perulanganDo = 0;
+}

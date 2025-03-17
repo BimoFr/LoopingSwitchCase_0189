@@ -47,7 +47,7 @@ cout << "NIlai n terakhir = " << n  << endl;
 
 cout << "Perulangan do while" << endl;
 
-s rand(time(0));
+srand(time(0));
 
 n = rand() % 10;
 
